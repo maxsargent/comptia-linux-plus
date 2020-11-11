@@ -10,8 +10,6 @@ The topics covered can be found [here](https://www.comptia.jp/pdf/comptia-linux-
 ***
 
 ## Table of Contents
-- [CompTia Linux+](#comptia-linux)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Hardware and System Configuration](#hardware-and-system-configuration)
   - [Systems Operation and Maintenance](#systems-operation-and-maintenance)
